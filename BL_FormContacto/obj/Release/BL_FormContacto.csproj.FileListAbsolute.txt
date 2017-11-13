@@ -1,0 +1,40 @@
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\Microsoft.Xrm.Client.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\k.espinoza.cabrera\Downloads\Form 2\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario\BL_FormContacto\obj\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Downloads\Formulario v3\BL_FormContacto\obj\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Downloads\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\Formulario v4.1\BL_FormContacto\obj\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\bin\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\bin\Release\BL_FormContacto.pdb
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\bin\Release\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\obj\Release\BL_FormContacto.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\obj\Release\BL_FormContacto.dll
+C:\Users\Jaime Santis\Desktop\Respaldo Jaime Santis\Desarrollos\UCENTRAL\FormularioFichaCarrera\BL_FormContacto\obj\Release\BL_FormContacto.pdb
